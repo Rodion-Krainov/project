@@ -1,0 +1,13 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 7" width="200" height="7">
+	<title>8 цитаты Анны</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #b0a999 } 
+	</style>
+	<g id="8 цитаты Анны">
+		<g id="01 02 03">
+			<path id="Ellipse 564" class="shp0" d="M3.75 0C5.68 0 7.25 1.57 7.25 3.5C7.25 5.43 5.68 7 3.75 7C1.82 7 0.25 5.43 0.25 3.5C0.25 1.57 1.82 0 3.75 0Z" />
+			<line x1="3" y1="3.5" x2="200" y2="3.5" stroke-width="1" stroke="#b0a999"/>
+		</g>
+	</g>
+</svg>
